@@ -1,9 +1,9 @@
 # Yulia Demir
 
 **Contact Information**
-Email: nightelfin91@gmail.com
-GitHub: https://github.com/YuliaDemir
-LinkedIn: https://linkedin.com/in/yulia-demir-2a3b6b26a
+- Email: nightelfin91@gmail.com
+- GitHub: https://github.com/YuliaDemir
+- LinkedIn: https://linkedin.com/in/yulia-demir-2a3b6b26a
 
 ---
 
@@ -22,7 +22,7 @@ I am a beginner developer. At the beginning of 2024, I became interested in Java
 
 ## Code Examples
 
-- **My future projects in rsschool**: (https://github.com/YuliaDemir/rsschool-cv)
+- **My future projects in rsschool**: https://github.com/YuliaDemir/rsschool-cv
 
 ---
 
